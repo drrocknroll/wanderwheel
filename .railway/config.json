@@ -1,0 +1,12 @@
+{
+  "build": {
+    "nixpacksPlan": {
+      "phases": {
+        "install": {
+          "nixPkgs": ["python310", "gcc", "gnumake"],
+          "cmds": ["pip install -r requirements.txt"]
+        }
+      }
+    }
+  }
+}
