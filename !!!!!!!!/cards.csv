@@ -1,0 +1,18 @@
+﻿ID;INTERACTIVE;LANGUAGE;CITY;ADDRESS;GPS_LAT;GPS_LNG;TITLE;TEXT;QUESTION;OPTIONS;CORRECT_INDEX;REALITY;EXPLANATION;ROUTES;PERSONS;TAGS
+QZ-001-RU;TRUE;ru;spb;Казанская площадь;59.93428;30.32442;Архитектор собора;;Кто был архитектором Казанского собора?;"Василий Стасов;Андреян Захаров;Андрей Воронихин;Огюст Монферран";2;fact;Казанский собор был построен под руководством архитектора Андрея Воронихина.;RT-0005;Андрей Воронихин;"архитектура;история"
+QZ-002-EN;TRUE;en;moscow;;;;St. Basil's Cathedral;;Who ordered the construction of St. Basil’s Cathedral?;"Ivan the Terrible;Catherine the Great;Peter the Great;Alexander I";0;fact;St. Basil’s Cathedral was commissioned by Ivan the Terrible.;RT-0011;Ivan the Terrible;"history;architecture"
+QZ-003-CN;TRUE;cn;all;;;;滴血大教堂;;哪位沙皇下令修建了圣巴西尔大教堂？;"伊凡雷帝;叶卡捷琳娜大帝;彼得大帝;亚历山大一世";0;fact;圣巴西尔大教堂是由伊凡雷帝下令建造的。;RT-0011;伊凡雷帝;"历史;建筑"
+SD-0001-RU;FALSE;ru;spb;Невский проспект;59.932555;30.348267;Невский проспект;Главная магистраль Санкт-Петербурга, проложенная в начале XVIII века...;;;;fact;;RT-0001;;"архитектура;история"
+SD-0002-EN;FALSE;en;spb;Nevsky Prospect;59.932555;30.348267;Nevsky Prospect;The main street of St. Petersburg, laid out in the early 18th century...;;;;fact;;RT-0001;;"architecture;history"
+SD-0003-CN;FALSE;cn;spb;涅夫斯基大街;59.932555;30.348267;涅夫斯基大街;圣彼得堡的主干道，建于18世纪初...;;;;fact;;RT-0001;;"建筑;历史"
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;

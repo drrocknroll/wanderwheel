@@ -1,0 +1,242 @@
+[
+    {
+        "id": "SPB-Q-0001-EN",
+        "question": "Which building on Nevsky Prospect is known as the 'House of Books'?",
+        "options": {
+            "A": "Singer House",
+            "B": "Lidval House",
+            "C": "House with Towers",
+            "D": "Basevich House"
+        },
+        "correct": "A",
+        "explanation": "Explanation: The Singer House (now known as the House of Books) is a famous Art Nouveau building originally constructed for the Singer Sewing Company."
+    },
+    {
+        "id": "SPB-Q-0002-EN",
+        "question": "What is the shortest street in St. Petersburg?",
+        "options": {
+            "A": "Literatorskaya Street",
+            "B": "Second Engineering Passage",
+            "C": "Penkovaya Street",
+            "D": "Klenovaya Street"
+        },
+        "correct": "B",
+        "explanation": "Explanation: The Second Engineering Passage is the shortest street in the city, measuring only 20 meters in length."
+    },
+    {
+        "id": "SPB-Q-0003-EN",
+        "question": "Which palace is located on Palace Square?",
+        "options": {
+            "A": "Stroganov Palace",
+            "B": "Yusupov Palace",
+            "C": "Winter Palace",
+            "D": "Marble Palace"
+        },
+        "correct": "C",
+        "explanation": "Explanation: The Winter Palace is one of the main landmarks of St. Petersburg and was the former residence of Russian emperors."
+    },
+    {
+        "id": "SPB-Q-0004-EN",
+        "question": "Which building is known as the 'Tower of Griffins'?",
+        "options": {
+            "A": "Page Corps Building",
+            "B": "Basin Revenue House",
+            "C": "Stenbock-Fermor Revenue House",
+            "D": "Wilhelm Pel House"
+        },
+        "correct": "D",
+        "explanation": "Explanation: The Wilhelm Pel House on Vasilyevsky Island is famous for the legend of griffins guarding secret knowledge."
+    },
+    {
+        "id": "SPB-Q-0005-EN",
+        "question": "Which bridge in St. Petersburg is the most frequently raised?",
+        "options": {
+            "A": "Trinity Bridge",
+            "B": "Blagoveshchensky Bridge",
+            "C": "Palace Bridge",
+            "D": "Bolsheokhtinsky Bridge"
+        },
+        "correct": "C",
+        "explanation": "Explanation: Palace Bridge is the most iconic of St. Petersburg’s drawbridges, raised nightly for ships to pass through."
+    },
+    {
+        "id": "SPB-Q-0006-EN",
+        "question": "Where is the famous Lion Bridge located?",
+        "options": {
+            "A": "Across the Fontanka River",
+            "B": "Across the Moika River",
+            "C": "Across the Griboedov Canal",
+            "D": "Across the Smolenka River"
+        },
+        "correct": "C",
+        "explanation": "Explanation: The Lion Bridge is a suspension bridge over the Griboedov Canal, decorated with lion sculptures."
+    },
+    {
+        "id": "SPB-Q-0007-EN",
+        "question": "Which street in St. Petersburg is famous for its arches?",
+        "options": {
+            "A": "Kolomyazhsky Prospect",
+            "B": "Bolshaya Morskaya Street",
+            "C": "Liteiny Prospect",
+            "D": "Konnogvardeisky Boulevard"
+        },
+        "correct": "B",
+        "explanation": "Explanation: Bolshaya Morskaya Street is well known for its arches connecting buildings on both sides of the street."
+    },
+    {
+        "id": "SPB-Q-0008-EN",
+        "question": "Which theater is known as the 'Bolshoi Drama Theater'?",
+        "options": {
+            "A": "Alexandrinsky Theater",
+            "B": "Mariinsky Theater",
+            "C": "Theater on Liteiny",
+            "D": "BDT named after Tovstonogov"
+        },
+        "correct": "D",
+        "explanation": "Explanation: The Bolshoi Drama Theater (BDT) named after Georgy Tovstonogov is one of Russia’s leading theaters, known for its outstanding productions."
+    },
+    {
+        "id": "SPB-Q-0009-EN",
+        "question": "Which canal crosses Nevsky Prospect?",
+        "options": {
+            "A": "Griboedov Canal",
+            "B": "Fontanka River",
+            "C": "Obvodny Canal",
+            "D": "Kronverksky Canal"
+        },
+        "correct": "A",
+        "explanation": "Explanation: The Griboedov Canal crosses Nevsky Prospect near Kazan Cathedral, creating a picturesque view."
+    },
+    {
+        "id": "SPB-Q-0010-EN",
+        "question": "Which building is known as the 'Kazan Cathedral'?",
+        "options": {
+            "A": "St. Isaac’s Cathedral",
+            "B": "Kazan Cathedral",
+            "C": "Church of the Savior on Spilled Blood",
+            "D": "St. Nicholas Naval Cathedral"
+        },
+        "correct": "B",
+        "explanation": "Explanation: The Kazan Cathedral is one of the most recognizable landmarks on Nevsky Prospect, built in the classical style."
+    },
+    {
+        "id": "SPB-Q-0011-EN",
+        "question": "Which Russian emperor commissioned the construction of St. Isaac’s Cathedral?",
+        "options": {
+            "A": "Alexander I",
+            "B": "Nicholas I",
+            "C": "Peter I",
+            "D": "Alexander II"
+        },
+        "correct": "B",
+        "explanation": "Explanation: Nicholas I commissioned architect Auguste de Montferrand to construct the new St. Isaac’s Cathedral in St. Petersburg."
+    },
+    {
+        "id": "SPB-Q-0012-EN",
+        "question": "Which Russian writer worked at the Public Library of St. Petersburg?",
+        "options": {
+            "A": "Alexander Pushkin",
+            "B": "Fyodor Dostoevsky",
+            "C": "Nikolai Gogol",
+            "D": "Leo Tolstoy"
+        },
+        "correct": "B",
+        "explanation": "Explanation: Fyodor Dostoevsky worked at the Public Library of St. Petersburg in his youth, which influenced his literary works."
+    },
+    {
+        "id": "SPB-Q-0013-EN",
+        "question": "What major event occurred in St. Petersburg on January 9, 1905?",
+        "options": {
+            "A": "The February Revolution",
+            "B": "Bloody Sunday",
+            "C": "The coronation of Nicholas II",
+            "D": "The abolition of serfdom"
+        },
+        "correct": "B",
+        "explanation": "Explanation: On January 9, 1905, 'Bloody Sunday' took place when peaceful demonstrators marching toward the Winter Palace were fired upon by the Imperial Guard."
+    },
+    {
+        "id": "SPB-Q-0014-EN",
+        "question": "Which Russian emperor was assassinated near the Catherine Canal embankment in St. Petersburg?",
+        "options": {
+            "A": "Peter III",
+            "B": "Alexander II",
+            "C": "Nicholas II",
+            "D": "Alexander III"
+        },
+        "correct": "B",
+        "explanation": "Explanation: Emperor Alexander II was killed by a bomb thrown by a member of the revolutionary group Narodnaya Volya on March 1, 1881."
+    },
+    {
+        "id": "SPB-Q-0015-EN",
+        "question": "Which Russian emperor unveiled the Bronze Horseman in St. Petersburg?",
+        "options": {
+            "A": "Alexander I",
+            "B": "Peter I",
+            "C": "Catherine II",
+            "D": "Nicholas I"
+        },
+        "correct": "C",
+        "explanation": "Explanation: Catherine II unveiled the statue of Peter the Great in 1782, now known as the Bronze Horseman."
+    },
+    {
+        "id": "SPB-Q-0016-EN",
+        "question": "Which famous Russian military commander is buried in Kazan Cathedral in St. Petersburg?",
+        "options": {
+            "A": "Alexander Suvorov",
+            "B": "Mikhail Kutuzov",
+            "C": "Fyodor Ushakov",
+            "D": "Peter Bagration"
+        },
+        "correct": "B",
+        "explanation": "Explanation: Mikhail Kutuzov, the hero of the 1812 Patriotic War against Napoleon, is buried in Kazan Cathedral."
+    },
+    {
+        "id": "SPB-Q-0017-EN",
+        "question": "What happened at the Peter and Paul Fortress in 1917?",
+        "options": {
+            "A": "The execution of the Decembrists",
+            "B": "The imprisonment of the Provisional Government",
+            "C": "The signing of the Manifesto on the Freedoms of the Nobility",
+            "D": "The first exhibition of Malevich’s works"
+        },
+        "correct": "B",
+        "explanation": "Explanation: After the October Revolution, the arrested members of the Provisional Government were imprisoned in the Peter and Paul Fortress."
+    },
+    {
+        "id": "SPB-Q-0018-EN",
+        "question": "Which Russian artist founded the 'World of Art' movement in St. Petersburg?",
+        "options": {
+            "A": "Ivan Aivazovsky",
+            "B": "Mikhail Vrubel",
+            "C": "Alexander Benois",
+            "D": "Vasily Surikov"
+        },
+        "correct": "C",
+        "explanation": "Explanation: Alexander Benois was one of the founders of the 'World of Art' artistic movement in St. Petersburg."
+    },
+    {
+        "id": "SPB-Q-0019-EN",
+        "question": "Which writer described St. Petersburg in his novel 'Petersburg'?",
+        "options": {
+            "A": "Fyodor Dostoevsky",
+            "B": "Andrei Bely",
+            "C": "Nikolai Gogol",
+            "D": "Alexander Pushkin"
+        },
+        "correct": "B",
+        "explanation": "Explanation: Andrei Bely’s novel 'Petersburg' presents a symbolic and mystical depiction of the city."
+    },
+    {
+        "id": "SPB-Q-0020-EN",
+        "question": "Which American poet visited Leningrad in 1928 and wrote about it in his memoirs?",
+        "options": {
+            "A": "Ernest Hemingway",
+            "B": "Langston Hughes",
+            "C": "Robert Frost",
+            "D": "Walt Whitman"
+        },
+        "correct": "B",
+        "explanation": "Explanation: American poet Langston Hughes visited Leningrad in 1928 and described the city in his memoirs."
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "id": "SPB-Q-0001-EN",
+        "question": "Which building on Nevsky Prospect is known as the 'House of Books'?",
+        "options": {
+            "A": "Singer House",
+            "B": "Lidval House",
+            "C": "House with Towers",
+            "D": "Basevich House"
+        },
+        "correct": "A",
+        "explanation": "Explanation: The Singer House (now known as the House of Books) is a famous Art Nouveau building originally constructed for the Singer Sewing Company."
+    },
+    {
+        "id": "SPB-Q-0002-EN",
+        "question": "What is the shortest street in St. Petersburg?",
+        "options": {
+            "A": "Literatorskaya Street",
+            "B": "Second Engineering Passage",
+            "C": "Penkovaya Street",
+            "D": "Klenovaya Street"
+        },
+        "correct": "B",
+        "explanation": "Explanation: The Second Engineering Passage is the shortest street in the city, measuring only 20 meters in length."
+    },
+    {
+        "id": "SPB-Q-0003-EN",
+        "question": "Which palace is located on Palace Square?",
+        "options": {
+            "A": "Stroganov Palace",
+            "B": "Yusupov Palace",
+            "C": "Winter Palace",
+            "D": "Marble Palace"
+        },
+        "correct": "C",
+        "explanation": "Explanation: The Winter Palace is one of the main landmarks of St. Petersburg and was the former residence of Russian emperors."
+    },
+    {
+        "id": "SPB-Q-0004-EN",
+        "question": "Which building is known as the 'Tower of Griffins'?",
+        "options": {
+            "A": "Page Corps Building",
+            "B": "Basin Revenue House",
+            "C": "Stenbock-Fermor Revenue House",
+            "D": "Wilhelm Pel House"
+        },
+        "correct": "D",
+        "explanation": "Explanation: The Wilhelm Pel House on Vasilyevsky Island is famous for the legend of griffins guarding secret knowledge."
+    },
+    {
+        "id": "SPB-Q-0005-EN",
+        "question": "Which bridge in St. Petersburg is the most frequently raised?",
+        "options": {
+            "A": "Trinity Bridge",
+            "B": "Blagoveshchensky Bridge",
+            "C": "Palace Bridge",
+            "D": "Bolsheokhtinsky Bridge"
+        },
+        "correct": "C",
+        "explanation": "Explanation: Palace Bridge is the most iconic of St. Petersburg’s drawbridges, raised nightly for ships to pass through."
+    },
+    {
+        "id": "SPB-Q-0006-EN",
+        "question": "Where is the famous Lion Bridge located?",
+        "options": {
+            "A": "Across the Fontanka River",
+            "B": "Across the Moika River",
+            "C": "Across the Griboedov Canal",
+            "D": "Across the Smolenka River"
+        },
+        "correct": "C",
+        "explanation": "Explanation: The Lion Bridge is a suspension bridge over the Griboedov Canal, decorated with lion sculptures."
+    },
+    {
+        "id": "SPB-Q-0007-EN",
+        "question": "Which street in St. Petersburg is famous for its arches?",
+        "options": {
+            "A": "Kolomyazhsky Prospect",
+            "B": "Bolshaya Morskaya Street",
+            "C": "Liteiny Prospect",
+            "D": "Konnogvardeisky Boulevard"
+        },
+        "correct": "B",
+        "explanation": "Explanation: Bolshaya Morskaya Street is well known for its arches connecting buildings on both sides of the street."
+    },
+    {
+        "id": "SPB-Q-0008-EN",
+        "question": "Which theater is known as the 'Bolshoi Drama Theater'?",
+        "options": {
+            "A": "Alexandrinsky Theater",
+            "B": "Mariinsky Theater",
+            "C": "Theater on Liteiny",
+            "D": "BDT named after Tovstonogov"
+        },
+        "correct": "D",
+        "explanation": "Explanation: The Bolshoi Drama Theater (BDT) named after Georgy Tovstonogov is one of Russia’s leading theaters, known for its outstanding productions."
+    },
+    {
+        "id": "SPB-Q-0009-EN",
+        "question": "Which canal crosses Nevsky Prospect?",
+        "options": {
+            "A": "Griboedov Canal",
+            "B": "Fontanka River",
+            "C": "Obvodny Canal",
+            "D": "Kronverksky Canal"
+        },
+        "correct": "A",
+        "explanation": "Explanation: The Griboedov Canal crosses Nevsky Prospect near Kazan Cathedral, creating a picturesque view."
+    },
+    {
+        "id": "SPB-Q-0010-EN",
+        "question": "Which building is known as the 'Kazan Cathedral'?",
+        "options": {
+            "A": "St. Isaac’s Cathedral",
+            "B": "Kazan Cathedral",
+            "C": "Church of the Savior on Spilled Blood",
+            "D": "St. Nicholas Naval Cathedral"
+        },
+        "correct": "B",
+        "explanation": "Explanation: The Kazan Cathedral is one of the most recognizable landmarks on Nevsky Prospect, built in the classical style."
+    },
+    {
+        "id": "SPB-0001-EN",
+        "icon": "📖",
+        "title": "Peterhof Road – The Royal Route to the Fountains",
+        "text": "In 1758, Peterhof Road was built, connecting St. Petersburg to the tsar’s residence. Carriages rumbled, nobles dreamed of fountains, and dust rose above the road.",
+        "image_url": "https://example.com/images/spb_0001_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0001_thumb.jpg",
+        "location": "Stachek Square, 1, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0002-EN",
+        "icon": "📖",
+        "title": "Narva Outpost – The Southern Gates of St. Petersburg",
+        "text": "In the 18th century, Stachek Square was home to the Narva Outpost, a frontier of the city. Guards checked travel documents, while the vast fields of Russia stretched beyond.",
+        "image_url": "https://example.com/images/spb_0002_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0002_thumb.jpg",
+        "location": "Stachek Square, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0003-EN",
+        "icon": "📖",
+        "title": "Triumphal Narva Gate – A Symbol of the 1812 Victory",
+        "text": "Built between 1827 and 1834, the Narva Gate commemorates the victory over Napoleon. Architect Vasily Stasov designed the monument, crowned with bronze chariots and warriors.",
+        "image_url": "https://example.com/images/spb_0003_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0003_thumb.jpg",
+        "location": "Stachek Square, 1, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0004-EN",
+        "icon": "📖",
+        "title": "Bloody Sunday – The Tragedy of 1905",
+        "text": "On January 9, 1905, workers marching to the tsar were shot down in Stachek Square. Their peaceful protest met gunfire, becoming the spark of future revolutions.",
+        "image_url": "https://example.com/images/spb_0004_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0004_thumb.jpg",
+        "location": "Stachek Square, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0005-EN",
+        "icon": "📖",
+        "title": "Putilov Plant – The Heart of Industrial St. Petersburg",
+        "text": "Founded in 1789, the Putilov Plant became the largest industrial center of the Russian Empire. Today, it is the Kirov Plant, a symbol of industrial heritage.",
+        "image_url": "https://example.com/images/spb_0005_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0005_thumb.jpg",
+        "location": "Stachek Avenue, 47, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0016-EN",
+        "icon": "📖",
+        "title": "Pushkin House – The Temple of Russian Literature",
+        "text": "Founded in 1905, the Institute of Russian Literature is a sanctuary of words and ink. Manuscripts whisper stories of Russia’s literary soul. Address: Makarov Embankment, 4 — a haven for scholars and poets. Step inside and breathe in the dust of Pushkin’s lines.",
+        "image_url": "https://example.com/images/spb_0016_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0016_thumb.jpg",
+        "location": "Makarov Embankment, 4, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0017-EN",
+        "icon": "📖",
+        "title": "Cruiser Aurora – The Shot That Changed History",
+        "text": "The shot fired from 'Aurora' in 1917 signaled the start of the October Revolution. Its cannons woke the city, and history surged forward. Address: Petrogradskaya Embankment — its eternal berth. Come closer and hear the echo of that fateful blast.",
+        "image_url": "https://example.com/images/spb_0017_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0017_thumb.jpg",
+        "location": "Petrogradskaya Embankment, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0018-EN",
+        "icon": "📖",
+        "title": "The Siege of Leningrad – 872 Days of Heroism",
+        "text": "From 1941 to 1944, Leningrad withstood the iron grip of war. Cold, hunger, bombs—yet its spirit never broke. Address: The entire city of St. Petersburg is a monument to their resilience. Walk its streets and honor their courage.",
+        "image_url": "https://example.com/images/spb_0018_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0018_thumb.jpg",
+        "location": "Throughout St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0019-EN",
+        "icon": "📖",
+        "title": "Mariinsky Theatre – The Home of Russian Ballet",
+        "text": "In 1860, the Mariinsky Theatre opened its doors, becoming the cradle of Russian ballet. Stars danced here, and the halls trembled with applause and music. Address: Teatralnaya Square, 1 — a palace of grace and art. Step inside and let the pointe shoes spin your soul.",
+        "image_url": "https://example.com/images/spb_0019_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0019_thumb.jpg",
+        "location": "Teatralnaya Square, 1, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0020-EN",
+        "icon": "📖",
+        "title": "Kunstkamera – Peter the Great’s Cabinet of Curiosities",
+        "text": "In 1714, Peter I founded Russia’s first museum—the Kunstkamera of wonders. Skeletons, oddities, and mysteries of the world gathered under his stern gaze. Address: Universitetskaya Embankment, 3 — a house of science and strangeness. Step inside and marvel at his curiosity.",
+        "image_url": "https://example.com/images/spb_0020_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0020_thumb.jpg",
+        "location": "Universitetskaya Embankment, 3, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0021-EN",
+        "icon": "📖",
+        "title": "Nevsky Prospect – The Lifeline of St. Petersburg",
+        "text": "In the 1710s, Nevsky was carved out as the city’s main artery—wide and bustling. Carriages, merchants, and lights made it the face of St. Petersburg for centuries. Address: Nevsky Prospect—from the Admiralty to the railway station. Walk here and feel the city’s pulse.",
+        "image_url": "https://example.com/images/spb_0021_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0021_thumb.jpg",
+        "location": "Nevsky Prospect, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0022-EN",
+        "icon": "📖",
+        "title": "Summer Garden – Peter the Great’s Green Refuge",
+        "text": "In 1704, Peter I laid out the Summer Garden—a green oasis amid stone. Fountains sang, alleys beckoned, and the tsar strolled in the shade of trees. Address: Kutuzov Embankment — his quiet retreat. Walk here and breathe in the air of Peter’s era.",
+        "image_url": "https://example.com/images/spb_0022_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0022_thumb.jpg",
+        "location": "Kutuzov Embankment, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0023-EN",
+        "icon": "📖",
+        "title": "Smolny Institute – The First School for Noble Ladies",
+        "text": "In 1764, Smolny became Russia’s first educational institution for women—a beacon of enlightenment. Girls studied, laughed, and dreamed under its strict dome. Address: Smolny Street, 1 — a cradle of knowledge. Step inside and hear echoes of their first lessons.",
+        "image_url": "https://example.com/images/spb_0023_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0023_thumb.jpg",
+        "location": "Smolny Street, 1, St. Petersburg",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0024-EN",
+        "icon": "📖",
+        "title": "Peterhof – The Tsar’s Dream of Water and Glory",
+        "text": "In 1710, Peter I founded Peterhof—a royal paradise beyond the city. Fountains reach for the sky, palaces shine, and nature praises his will. Address: Peterhof, Razvodnaya Street — the imperial residence. Travel there and lose yourself in its magnificence.",
+        "image_url": "https://example.com/images/spb_0024_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0024_thumb.jpg",
+        "location": "Razvodnaya Street, Peterhof",
+        "language": "en"
+    },
+    {
+        "id": "SPB-0025-EN",
+        "icon": "📖",
+        "title": "Tsarskoye Selo – The Summer Refuge of Emperors",
+        "text": "Tsarskoye Selo, now the town of Pushkin, was a summer retreat of emperors, filled with luxury. Palaces and parks preserve the footsteps of Catherine the Great and her court. Address: Pushkin, Sadovaya Street — imperial land. Stroll here and breathe in the scent of grandeur.",
+        "image_url": "https://example.com/images/spb_0025_min.jpg",
+        "thumbnail_url": "https://example.com/images/spb_0025_thumb.jpg",
+        "location": "Sadovaya Street, Pushkin",
+        "language": "en"
+    }
+]

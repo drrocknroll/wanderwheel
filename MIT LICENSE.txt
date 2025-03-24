@@ -1,0 +1,49 @@
+# ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ (MIT LICENSE)
+
+Автор: Индивидуальный Предприниматель Борков Алексей Юрьевич, ИНН 540115413780
+
+
+Дата публикации: [06.03.2025]  
+Telegram-бот: [WanderWheel]  
+
+Настоящее лицензионное соглашение (далее – "Соглашение") регулирует условия использования Telegram-бота "WanderWheel (русское название - "Крути!)", (далее – "Программное обеспечение").  
+
+## 1. ПРАВА И ОГРАНИЧЕНИЯ  
+1.1. Разрешается бесплатно использовать, копировать, изменять и распространять Программное обеспечение, при условии сохранения этого лицензионного соглашения.  
+1.2. Использование Программного обеспечения не должно нарушать действующее законодательство.  
+1.3. Программное обеспечение предоставляется "как есть", без гарантий и обязательств со стороны автора.  
+
+## 2. ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ  
+2.1. Автор не несет ответственности за любой ущерб, возникший в результате использования Программного обеспечения.  
+2.2. Пользователь самостоятельно отвечает за соблюдение законодательства при использовании Программного обеспечения.  
+
+## 3. ЗАВЕРШЕНИЕ ДЕЙСТВИЯ ЛИЦЕНЗИИ  
+3.1. Лицензия остается в силе бессрочно, если пользователь не нарушает условия Соглашения.  
+3.2. Автор может изменить условия лицензии в будущем, но они не применяются ретроактивно.  
+
+© [2025] Индивидуальный Предприниматель Борков Алексей Юрьевич, ИНН 540115413780. Все права защищены.  
+
+---  
+
+# LICENSE AGREEMENT (MIT LICENSE)  
+
+Author: Individual Entrepreneur Alexey Yurievich Borkov, TIN 540115413780  
+Publication Date: [Date]  
+Telegram Bot: WanderWheel  
+
+This License Agreement (hereinafter referred to as the "Agreement") governs the use of the Telegram bot "WanderWheel(Russian name - “Kruti!”) " (hereinafter referred to as the "Software").  
+
+## 1. RIGHTS AND RESTRICTIONS  
+1.1. The Software may be freely used, copied, modified, and distributed, provided this license agreement is retained.  
+1.2. The Software must not be used in violation of applicable law.  
+1.3. The Software is provided "as is," without warranties or obligations from the author.  
+
+## 2. DISCLAIMER OF LIABILITY  
+2.1. The author is not liable for any damages arising from the use of the Software.  
+2.2. The user is solely responsible for compliance with laws when using the Software.  
+
+## 3. TERMINATION OF LICENSE  
+3.1. The license remains valid indefinitely unless the user violates the terms of the Agreement.  
+3.2. The author may change the license terms in the future, but such changes will not apply retroactively.  
+
+© [2024] Individual Entrepreneur Alexey Yurievich Borkov, TIN 540115413780. All rights reserved.  

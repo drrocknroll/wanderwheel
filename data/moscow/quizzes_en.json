@@ -1,0 +1,122 @@
+[
+    {
+        "id": "SPB-Q-0001-EN",
+        "question": "Which building on Nevsky Prospect is known as the 'House of Books'?",
+        "options": {
+            "A": "Singer House",
+            "B": "Lidval House",
+            "C": "House with Towers",
+            "D": "Basevich House"
+        },
+        "correct": "A",
+        "explanation": "Explanation: The Singer House (now known as the House of Books) is a famous Art Nouveau building originally constructed for the Singer Sewing Company."
+    },
+    {
+        "id": "SPB-Q-0002-EN",
+        "question": "What is the shortest street in St. Petersburg?",
+        "options": {
+            "A": "Literatorskaya Street",
+            "B": "Second Engineering Passage",
+            "C": "Penkovaya Street",
+            "D": "Klenovaya Street"
+        },
+        "correct": "B",
+        "explanation": "Explanation: The Second Engineering Passage is the shortest street in the city, measuring only 20 meters in length."
+    },
+    {
+        "id": "SPB-Q-0003-EN",
+        "question": "Which palace is located on Palace Square?",
+        "options": {
+            "A": "Stroganov Palace",
+            "B": "Yusupov Palace",
+            "C": "Winter Palace",
+            "D": "Marble Palace"
+        },
+        "correct": "C",
+        "explanation": "Explanation: The Winter Palace is one of the main landmarks of St. Petersburg and was the former residence of Russian emperors."
+    },
+    {
+        "id": "SPB-Q-0004-EN",
+        "question": "Which building is known as the 'Tower of Griffins'?",
+        "options": {
+            "A": "Page Corps Building",
+            "B": "Basin Revenue House",
+            "C": "Stenbock-Fermor Revenue House",
+            "D": "Wilhelm Pel House"
+        },
+        "correct": "D",
+        "explanation": "Explanation: The Wilhelm Pel House on Vasilyevsky Island is famous for the legend of griffins guarding secret knowledge."
+    },
+    {
+        "id": "SPB-Q-0005-EN",
+        "question": "Which bridge in St. Petersburg is the most frequently raised?",
+        "options": {
+            "A": "Trinity Bridge",
+            "B": "Blagoveshchensky Bridge",
+            "C": "Palace Bridge",
+            "D": "Bolsheokhtinsky Bridge"
+        },
+        "correct": "C",
+        "explanation": "Explanation: Palace Bridge is the most iconic of St. Petersburg’s drawbridges, raised nightly for ships to pass through."
+    },
+    {
+        "id": "SPB-Q-0006-EN",
+        "question": "Where is the famous Lion Bridge located?",
+        "options": {
+            "A": "Across the Fontanka River",
+            "B": "Across the Moika River",
+            "C": "Across the Griboedov Canal",
+            "D": "Across the Smolenka River"
+        },
+        "correct": "C",
+        "explanation": "Explanation: The Lion Bridge is a suspension bridge over the Griboedov Canal, decorated with lion sculptures."
+    },
+    {
+        "id": "SPB-Q-0007-EN",
+        "question": "Which street in St. Petersburg is famous for its arches?",
+        "options": {
+            "A": "Kolomyazhsky Prospect",
+            "B": "Bolshaya Morskaya Street",
+            "C": "Liteiny Prospect",
+            "D": "Konnogvardeisky Boulevard"
+        },
+        "correct": "B",
+        "explanation": "Explanation: Bolshaya Morskaya Street is well known for its arches connecting buildings on both sides of the street."
+    },
+    {
+        "id": "SPB-Q-0008-EN",
+        "question": "Which theater is known as the 'Bolshoi Drama Theater'?",
+        "options": {
+            "A": "Alexandrinsky Theater",
+            "B": "Mariinsky Theater",
+            "C": "Theater on Liteiny",
+            "D": "BDT named after Tovstonogov"
+        },
+        "correct": "D",
+        "explanation": "Explanation: The Bolshoi Drama Theater (BDT) named after Georgy Tovstonogov is one of Russia’s leading theaters, known for its outstanding productions."
+    },
+    {
+        "id": "SPB-Q-0009-EN",
+        "question": "Which canal crosses Nevsky Prospect?",
+        "options": {
+            "A": "Griboedov Canal",
+            "B": "Fontanka River",
+            "C": "Obvodny Canal",
+            "D": "Kronverksky Canal"
+        },
+        "correct": "A",
+        "explanation": "Explanation: The Griboedov Canal crosses Nevsky Prospect near Kazan Cathedral, creating a picturesque view."
+    },
+    {
+        "id": "SPB-Q-0010-EN",
+        "question": "Which building is known as the 'Kazan Cathedral'?",
+        "options": {
+            "A": "St. Isaac’s Cathedral",
+            "B": "Kazan Cathedral",
+            "C": "Church of the Savior on Spilled Blood",
+            "D": "St. Nicholas Naval Cathedral"
+        },
+        "correct": "B",
+        "explanation": "Explanation: The Kazan Cathedral is one of the most recognizable landmarks on Nevsky Prospect, built in the classical style."
+    }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "id": "MSK-0028-ZH",
+    "icon": "📖",
+    "title": "民纽和波加尔斯基纪念碑 – 红场上的民族英雄",
+    "text": "这座纪念碑于1818年建立，以纪念库兹马·民纽和德米特里·波加尔斯基，他们解救了莫斯科免受波兰入侵者的侵害。",
+    "image_url": "https://example.com/images/msk_0028_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0028_thumb.jpg",
+    "location": "红场，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0030-ZH",
+    "icon": "📖",
+    "title": "陀思妥耶夫斯基纪念碑",
+    "text": "这座纪念碑位于市中心，是莫斯科文化遗产的象征之一。",
+    "image_url": "https://example.com/images/msk_0030_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0030_thumb.jpg",
+    "location": "中央区，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0001-ZH",
+    "icon": "📖",
+    "title": "红场 – 俄罗斯的心脏",
+    "text": "莫斯科的中央广场，这里有许多历史遗迹，包括克里姆林宫和圣瓦西里大教堂。",
+    "image_url": "https://example.com/images/msk_0001_red_square.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0001_thumb.jpg",
+    "location": "红场，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0002-ZH",
+    "icon": "📖",
+    "title": "莫斯科克里姆林宫 – 古老的堡垒",
+    "text": "克里姆林宫是一座14世纪的历史堡垒，是俄罗斯权力的中心和国家的象征。",
+    "image_url": "https://example.com/images/msk_0002_kremlin.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0002_thumb.jpg",
+    "location": "克里姆林宫，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0003-ZH",
+    "icon": "📖",
+    "title": "圣瓦西里大教堂 – 童话般的教堂",
+    "text": "这座著名的教堂建于16世纪，以其独特的外观和色彩鲜艳的圆顶而著称。",
+    "image_url": "https://example.com/images/msk_0003_st_basils.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0003_thumb.jpg",
+    "location": "红场，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0004-ZH",
+    "icon": "📖",
+    "title": "古姆 – 莫斯科的主要商场",
+    "text": "古姆是俄罗斯最古老的百货商店之一，建于19世纪。",
+    "image_url": "https://example.com/images/msk_0004_gum.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0004_thumb.jpg",
+    "location": "红场3号，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0005-ZH",
+    "icon": "📖",
+    "title": "历史博物馆 – 过去的守护者",
+    "text": "国家历史博物馆展示了丰富的俄罗斯历史文物。",
+    "image_url": "https://example.com/images/msk_0005_museum.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0005_thumb.jpg",
+    "location": "红场1号，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0006-ZH",
+    "icon": "📖",
+    "title": "列宁墓 – 纪念之地",
+    "text": "这座纪念碑建于1924年，保存了弗拉基米尔·列宁的遗体。",
+    "image_url": "https://example.com/images/msk_0006_mausoleum.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0006_thumb.jpg",
+    "location": "红场，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0007-ZH",
+    "icon": "📖",
+    "title": "克里姆林宫的救世塔 – 俄罗斯的钟声",
+    "text": "救世塔建于15世纪，以其每小时报时的钟声而闻名。",
+    "image_url": "https://example.com/images/msk_0007_spasskaya.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0007_thumb.jpg",
+    "location": "克里姆林宫，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0008-ZH",
+    "icon": "📖",
+    "title": "印刷院 – 莫斯科的第一家印刷厂",
+    "text": "16世纪时，俄罗斯的第一家印刷厂在尼古拉街开设，对书籍的传播起到了重要作用。",
+    "image_url": "https://example.com/images/msk_0008_printing.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0008_thumb.jpg",
+    "location": "尼古拉街15号，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0009-ZH",
+    "icon": "📖",
+    "title": "梅尔尼科夫之家 – 先锋派的杰作",
+    "text": "这座位于克里沃阿尔巴特街的独特建筑成为了1920年代构成主义的象征。",
+    "image_url": "https://example.com/images/msk_0009_melnikov.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0009_thumb.jpg",
+    "location": "克里沃阿尔巴特街10号，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0010-ZH",
+    "icon": "📖",
+    "title": "新修道院 – 精神的中心",
+    "text": "这个16世纪的修道院被列为世界遗产。",
+    "image_url": "https://example.com/images/msk_0010_novodevichy.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0010_thumb.jpg",
+    "location": "新修道院街1号，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0021-ZJ",
+    "icon": "📖",
+    "title": "列宁与中国革命者 (事实)",
+    "text": "1917年，列宁，布尔什维克领袖，激励了中国革命者，包括未来的中华人民共和国总理周恩来。周恩来在巴黎学习马克思主义，但其思想部分受到了十月革命的影响。",
+    "image_url": "https://example.com/images/msk_0021.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0021_thumb.jpg",
+    "location": "列宁博物馆, 原地址: 大德米特罗夫街, 2号, 现为国家杜马大楼",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0022-ZJ",
+    "icon": "📖",
+    "title": "中国军团在俄国内战中 (事实)",
+    "text": "1918年，中国部队作为红军国际军团的一部分，协助保卫苏维埃政府，驻扎在克里姆林宫附近。",
+    "image_url": "https://example.com/images/msk_0022.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0022_thumb.jpg",
+    "location": "红场, 莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0023-ZJ",
+    "icon": "🧙🏻‍♂️",
+    "title": "成吉思汗与中国城 (传说)",
+    "text": "据说‘中国城’的名字源于成吉思汗的征服，他的后代据说将这个地区命名为‘中国城’，以纪念中国的荣耀。",
+    "image_url": "https://example.com/images/msk_0023.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0023_thumb.jpg",
+    "location": "中国城, 瓦尔瓦尔卡街",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0024-ZJ",
+    "icon": "📖",
+    "title": "周恩来与中国大使馆 (事实)",
+    "text": "周恩来，中华人民共和国的第一任总理，曾于1950年代访问莫斯科，与苏联进行谈判。中国大使馆成为中苏友谊的象征。",
+    "image_url": "https://example.com/images/msk_0024.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0024_thumb.jpg",
+    "location": "中国大使馆, 友谊街, 6号",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0025-ZJ",
+    "icon": "🧙🏻‍♂️",
+    "title": "孔子与尼古拉街 (传说)",
+    "text": "传说中，19世纪中国学者孔子在尼古拉街的‘斯拉夫市场’酒馆内显现于梦中，预言了中俄之间繁荣的商业关系。",
+    "image_url": "https://example.com/images/msk_0025.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0025_thumb.jpg",
+    "location": "尼古拉街, 11号 (斯拉夫市场)",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0026-ZJ",
+    "icon": "📖",
+    "title": "中国马戏演员在莫斯科 (事实)",
+    "text": "1920年代，中国杂技演员如李旺在莫斯科马戏团演出，令观众惊叹于他们与老鼠和杂技的巧妙配合。",
+    "image_url": "https://example.com/images/msk_0026.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0026_thumb.jpg",
+    "location": "尼库林马戏团, 色瓦托伊大街, 13号",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0027-ZJ",
+    "icon": "📖",
+    "title": "毛泽东在克里姆林宫 (事实)",
+    "text": "1949-1950年，毛泽东访问莫斯科，与斯大林会晤。会议在克里姆林宫举行，巩固了中苏联盟。",
+    "image_url": "https://example.com/images/msk_0027.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0027_thumb.jpg",
+    "location": "克里姆林宫, 大克里姆林宫",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0028-ZJ",
+    "icon": "🧙🏻‍♂️",
+    "title": "李白与扎里亚季耶公园 (传说)",
+    "text": "据说，李白在18世纪的一次梦中显现给中国商人，激励他在扎里亚季耶公园开设茶店。",
+    "image_url": "https://example.com/images/msk_0028.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0028_thumb.jpg",
+    "location": "扎里亚季耶公园, 瓦尔瓦尔卡街, 6号",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0029-ZJ",
+    "icon": "📖",
+    "title": "中国学生与莫斯科大学 (事实)",
+    "text": "1950年代，数百名中国学生，包括未来的工程师和科学家，在莫斯科大学学习，促进了中苏合作。",
+    "image_url": "https://example.com/images/msk_0029.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0029_thumb.jpg",
+    "location": "莫斯科大学, 列宁山, 1号",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0030-ZJ",
+    "icon": "🧙🏻‍♂️",
+    "title": "玄奘与卢比扬卡广场 (传说)",
+    "text": "据说，玄奘大师曾在卢比扬卡广场地下埋下一个秘密卷轴，指引人们走向智慧的道路。",
+    "image_url": "https://example.com/images/msk_0030.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0030_thumb.jpg",
+    "location": "卢比扬卡广场, 莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0036-ZH",
+    "icon": "📖",
+    "title": "列宁与中国革命者",
+    "text": "1917年，弗拉基米尔·列宁激励了中国革命者，包括未来的中华人民共和国总理周恩来。中国人学习马克思主义，部分受十月革命的影响。",
+    "image_url": "https://example.com/images/msk_0036_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0036_thumb.jpg",
+    "location": "大德米特罗夫街2号，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0037-ZH",
+    "icon": "📖",
+    "title": "中国军团在内战中的角色",
+    "text": "1918年，莫斯科成立了中国第一国际军团，保卫苏联政府。",
+    "image_url": "https://example.com/images/msk_0037_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0037_thumb.jpg",
+    "location": "红场，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0038-ZH",
+    "icon": "🧙🏻‍♂️",
+    "title": "成吉思汗与中国城市的传说",
+    "text": "有传言称，‘中国城市’的名字与成吉思汗有关。据说他的后代将该地区命名为‘中国’。实际上，‘kita’一词意指防御工事。",
+    "image_url": "https://example.com/images/msk_0038_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0038_thumb.jpg",
+    "location": "瓦尔瓦尔卡街，莫斯科中国城市",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0039-ZH",
+    "icon": "📖",
+    "title": "周恩来与中国大使馆",
+    "text": "1950年代，中华人民共和国总理周恩来访问莫斯科进行谈判。中国大使馆成为苏中友谊的象征。",
+    "image_url": "https://example.com/images/msk_0039_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0039_thumb.jpg",
+    "location": "友谊街6号，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0040-ZH",
+    "icon": "🧙🏻‍♂️",
+    "title": "尼古拉街的孔子传说",
+    "text": "据说孔子曾出现在一个俄罗斯商人梦中，并预言了与中国的贸易繁荣。事实上，这是一个传说，但这条街一直是知识和印刷的中心。",
+    "image_url": "https://example.com/images/msk_0040_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0040_thumb.jpg",
+    "location": "尼古拉街11号，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0041-ZH",
+    "icon": "📖",
+    "title": "中国马戏演员在莫斯科",
+    "text": "1920年代，中国演员如李旺在尼库林马戏团演出，用戏法和杂技惊艳观众。",
+    "image_url": "https://example.com/images/msk_0041_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0041_thumb.jpg",
+    "location": "尼库林马戏团，彩色大街13号，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0042-ZH",
+    "icon": "📖",
+    "title": "毛泽东在克里姆林宫",
+    "text": "1949-1950年，毛泽东访问莫斯科与斯大林会谈，巩固了中苏关系。",
+    "image_url": "https://example.com/images/msk_0042_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0042_thumb.jpg",
+    "location": "克里姆林宫，大克里姆林宫，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0043-ZH",
+    "icon": "🧙🏻‍♂️",
+    "title": "李白与扎里季耶公园的传说",
+    "text": "据说，李白曾在18世纪以幻象出现在一位中国商人面前，激励他开设茶叶店。事实上，尽管中国商人确实在扎里季耶公园卖茶，李白从未到过那里。",
+    "image_url": "https://example.com/images/msk_0043_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0043_thumb.jpg",
+    "location": "扎里季耶公园，瓦尔瓦尔卡街6号，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0044-ZH",
+    "icon": "📖",
+    "title": "莫斯科大学的中国学生",
+    "text": "1950年代，成百上千的中国学生在莫斯科大学学习，促进了苏中合作。",
+    "image_url": "https://example.com/images/msk_0044_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0044_thumb.jpg",
+    "location": "莫斯科大学，列宁山1号，莫斯科",
+    "language": "zh"
+  },
+  {
+    "id": "MSK-0045-ZH",
+    "icon": "🧙🏻‍♂️",
+    "title": "卢比扬卡的玄奘法师传说",
+    "text": "传说佛教僧侣玄奘在莫斯科留下一封关于通向觉悟的秘密信件，并把它藏在卢比扬卡广场下。实际上，他曾去过印度，但莫斯科的佛教徒研究了他的著作。",
+    "image_url": "https://example.com/images/msk_0045_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0045_thumb.jpg",
+    "location": "卢比扬卡广场，莫斯科",
+    "language": "zh"
+  }
+]
+
+

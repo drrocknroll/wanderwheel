@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSK-0028",
+    "icon": "📌",
+    "title": "Monument to Minin and Pozharsky – People's Heroes on Red Square",
+    "text": "This monument was erected in 1818 in honor of Kuzma Minin and Prince Dmitry Pozharsky, who liberated Moscow from Polish invaders.",
+    "image_url": "https://example.com/images/msk_0028_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0028_thumb.jpg",
+    "location": "Red Square, Moscow"
+  },
+  {
+    "id": "MSK-0030",
+    "icon": "📌",
+    "title": "Dostoevsky Monument",
+    "text": "The monument to the renowned writer is located in the city center and is one of Moscow’s cultural heritage landmarks.",
+    "image_url": "https://example.com/images/msk_0030_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0030_thumb.jpg",
+    "location": "Central District, Moscow"
+  },
+  {
+    "id": "MSK-0001",
+    "icon": "📌",
+    "title": "Red Square – The Heart of Russia",
+    "text": "The central square of Moscow, home to many historical landmarks, including the Kremlin and St. Basil's Cathedral.",
+    "image_url": "https://mega.nz/file/e35EFDzJ#RXbAA7AlWpPUb80mSFGas6FqcR-CAUWmhB0Sv5_XI0Y",
+    "thumbnail_url": "https://mega.nz/file/K3xlyKDS#pbYUwRaAxjhTOPJUJ1jeHGXooTPiHxYb7d5CHczIB0A",
+    "location": "Red Square, Moscow"
+  },
+  {
+    "id": "MSK-0002",
+    "icon": "📌",
+    "title": "Moscow Kremlin – Ancient Citadel",
+    "text": "The Kremlin is a historic 14th-century fortress, the center of Russian power, and a symbol of the country.",
+    "image_url": "https://example.com/images/msk_0002_kremlin.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0002_thumb.jpg",
+    "location": "Kremlin, Moscow"
+  },
+  {
+    "id": "MSK-0003",
+    "icon": "📌",
+    "title": "St. Basil’s Cathedral – A Fairytale Church",
+    "text": "This famous cathedral, built in the 16th century, amazes with its unique appearance and colorful domes.",
+    "image_url": "https://example.com/images/msk_0003_st_basils.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0003_thumb.jpg",
+    "location": "Red Square, Moscow"
+  },
+  {
+    "id": "MSK-0004",
+    "icon": "📌",
+    "title": "GUM – Moscow’s Main Shopping Arcade",
+    "text": "GUM is one of Russia’s oldest department stores, built in the 19th century.",
+    "image_url": "https://example.com/images/msk_0004_gum.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0004_thumb.jpg",
+    "location": "Red Square, 3, Moscow"
+  },
+  {
+    "id": "MSK-0005",
+    "icon": "📌",
+    "title": "State Historical Museum – Guardian of the Past",
+    "text": "The State Historical Museum houses a vast collection of artifacts that tell the story of Russia’s history.",
+    "image_url": "https://example.com/images/msk_0005_museum.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0005_thumb.jpg",
+    "location": "Red Square, 1, Moscow"
+  },
+  {
+    "id": "MSK-0006",
+    "icon": "📌",
+    "title": "Lenin's Mausoleum – A Place of Remembrance",
+    "text": "Built in 1924, this mausoleum houses the body of Vladimir Lenin.",
+    "image_url": "https://example.com/images/msk_0006_mausoleum.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0006_thumb.jpg",
+    "location": "Red Square, Moscow"
+  },
+  {
+    "id": "MSK-0007",
+    "icon": "📌",
+    "title": "Spasskaya Tower of the Kremlin – Russia’s Clock Tower",
+    "text": "Built in the 15th century, the Spasskaya Tower is famous for its chimes that ring every hour.",
+    "image_url": "https://example.com/images/msk_0007_spasskaya.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0007_thumb.jpg",
+    "location": "Kremlin, Moscow"
+  },
+  {
+    "id": "MSK-0008",
+    "icon": "📌",
+    "title": "Printing Yard – Moscow’s First Printing House",
+    "text": "In the 16th century, Russia’s first printing house opened on Nikolskaya Street, playing a key role in the spread of books.",
+    "image_url": "https://example.com/images/msk_0008_printing.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0008_thumb.jpg",
+    "location": "Nikolskaya St., 15, Moscow"
+  },
+  {
+    "id": "MSK-0028",
+    "icon": "📌",
+    "title": "Monument to Minin and Pozharsky – People's Heroes on Red Square",
+    "text": "This monument was erected in 1818 in honor of Kuzma Minin and Prince Dmitry Pozharsky, who liberated Moscow from Polish invaders.",
+    "image_url": "https://example.com/images/msk_0030_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0030_thumb.jpg",
+    "location": "Red Square, Moscow"
+  },
+  {
+    "id": "MSK-0030",
+    "icon": "📌",
+    "title": "Dostoevsky Monument",
+    "text": "The monument to the renowned writer is located in the city center and is one of Moscow’s cultural heritage landmarks.",
+    "image_url": "https://example.com/images/msk_0030_min.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0030_thumb.jpg",
+    "location": "Central District, Moscow"
+  },
+  {
+    "id": "MSK-0009",
+    "icon": "📌",
+    "title": "Melnikov House – A Masterpiece of Avant-Garde Architecture",
+    "text": "This unique house in Krivoarbatsky Lane became a symbol of 1920s constructivism and is one of Moscow’s architectural treasures.",
+    "image_url": "https://example.com/images/msk_0009_melnikov.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0009_thumb.jpg",
+    "location": "Krivoarbatsky Lane, 10, Moscow"
+  },
+  {
+    "id": "MSK-0010",
+    "icon": "📌",
+    "title": "Novodevichy Convent – A Spiritual Landmark",
+    "text": "This 16th-century convent is a UNESCO World Heritage site, known for its stunning architecture and historical significance.",
+    "image_url": "https://example.com/images/msk_0010_novodevichy.jpg",
+    "thumbnail_url": "https://example.com/images/msk_0010_thumb.jpg",
+    "location": "Novodevichy Drive, 1, Moscow"
+  }
+]
