@@ -1,4 +1,0 @@
-﻿id;interactive;language;city;address;gps_lat;gps_lng;title;text;question;options;correct_index;reality;explanation;routes;persons;tags
-QZ-001-RU;true;ru;spb;"Казанская площадь";59.93428;30.32442;"Архитектор собора";"";"Кто был архитектором Казанского собора?";"Василий Стасов;Андреян Захаров;Андрей Воронихин;Огюст Монферран";2;fact;"Казанский собор был построен под руководством архитектора Андрея Воронихина.";"RT-0005";"Андрей Воронихин";"архитектура;история"
-QZ-002-EN;true;en;moscow;"";;;;"St. Basil's Cathedral";"Who ordered the construction of St. Basil’s Cathedral?";"Ivan the Terrible;Catherine the Great;Peter the Great;Alexander I";0;fact;"Commissioned by Ivan the Terrible";"RT-0011";"Ivan the Terrible";"history;architecture"
-SD-0001-RU;false;ru;spb;"Невский проспект";59.932555;30.348267;"Невский проспект";"Главная магистраль Санкт-Петербурга, проложенная в начале XVIII века...";"";"";;fact;"";"RT-0001";"";"архитектура;история"

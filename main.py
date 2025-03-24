@@ -19,6 +19,11 @@ import json
 import asyncio
 from pathlib import Path
 
+import subprocess
+
+# Запускаем setup.py, чтобы установить aiohttp
+subprocess.run(["python", "setup.py"], check=True)
+
 from aiogram import Bot, Dispatcher, executor, types
 import config  # Файл с API_TOKEN
 
