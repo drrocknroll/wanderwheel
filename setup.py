@@ -1,3 +1,10 @@
-import subprocess
+from setuptools import setup, find_packages
 
-subprocess.check_call(["pip", "install", "aiohttp==3.8.5"])
+setup(
+    name='wanderwheel-bot',
+    version='1.0.0',
+    py_modules=['main'],
+    install_requires=[
+        'aiogram==2.25.1'
+    ],
+)
